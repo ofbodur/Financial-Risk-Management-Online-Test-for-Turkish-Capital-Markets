@@ -1,0 +1,659 @@
+@charset "UTF-8";
+/* CSS Document */
+h1 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #28392E;
+	border-radius: 2px;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+	text-align: center;
+	border: thin double #D1383B;
+	background-color: #08F261;
+	margin-left: 0px;
+	
+	border-radius: 6px;
+	};
+#p2 {
+	border-color: #08F261;
+	display: table-row;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	min-height: 0px;
+	float: left;
+	padding-right: 0px;
+	overflow-x: auto;
+	-webkit-box-shadow: inset 0px 0px;
+	box-shadow: inset 0px 0px;
+	}
+.müşterisınıfı
+{
+	height: 30px;
+	width: 30px;
+	background-color: #D1383B;
+	display: inline-block;
+	margin-left: 5px;
+	top: 3px;
+	margin-bottom: 5px;
+	}
+.yaş
+{
+	height: 30px;
+	width: 30px;
+	background-color: #D1383B;
+	display: inline-block;
+	margin-left: 5px;
+	top: 3px;
+	margin-bottom: 5px;
+	}
+.eğitim
+{
+	height: 30px;
+	width: 30px;
+	background-color: #D1383B;
+	display: inline-block;
+	margin-left: 5px;
+	top: 3px;
+	margin-bottom: 5px;
+	}
+.netgelir
+{
+	height: 30px;
+	width: 30px;
+	background-color: #D1383B;
+	display: inline-block;
+	margin-left: 5px;
+	top: 3px;
+	margin-bottom: 5px;
+	}
+
+.netgelirtürü
+{
+	height: 30px;
+	width: 30px;
+	background-color: #D1383B;
+	display: inline-block;
+	margin-left: 5px;
+	top: 3px;
+	margin-bottom: 5px;
+	}
+.tasarruf_tutarı
+{
+	height: 30px;
+	width: 30px;
+	background-color: #D1383B;
+	display: inline-block;
+	margin-left: 5px;
+	top: 3px;
+	margin-bottom: 5px;
+	}
+.yatırım_süresi
+{
+	height: 30px;
+	width: 30px;
+	background-color: #D1383B;
+	display: inline-block;
+	margin-left: 5px;
+	top: 3px;
+	margin-bottom: 5px;
+	}
+	
+.risk_tercihi
+{
+	height: 30px;
+	width: 30px;
+	background-color: #D1383B;
+	display: inline-block;
+	margin-left: 24px;
+	top: 3px;
+	margin-top: 0px;
+	margin-bottom: 7px;
+	margin-right: 0px;
+	}
+.borç_durumu
+{
+	height: 30px;
+	width: 30px;
+	background-color: #D1383B;
+	display: inline-block;
+	margin-left: 5px;
+	top: 3px;
+	margin-bottom: 5px;
+	}
+.tablo3{
+	position: relative;
+	display: block;
+	margin-top: 39px;
+	font-size: large;
+	}
+.tablo4{
+	position: relative;
+	display: block;
+	margin-top: 39px;
+	font-size: large;
+	
+	}
+.tablo5 {
+	position: relative;
+	display: block;
+	margin-top: 39px;
+	font-size: large;
+	}
+.tablo6{
+	position: relative;
+	display: block;
+	margin-top: 39px;
+	font-size: large;
+	}
+
+.tablo7{
+	position: relative;
+	display: block;
+	margin-top: 39px;
+	font-size: large;
+	}
+.tablo8{
+	position: relative;
+	display: block;
+	margin-top: 39px;
+	font-size: large;
+	}
+.tablo9{
+	position: relative;
+	display: block;
+	margin-top: 39px;
+	font-size: large;
+	}
+.tablo10{
+	position: relative;
+	display: block;
+	margin-top: 39px;
+	font-size: large;
+	}
+.tablo11{
+	position: relative;
+	display: block;
+	margin-top: 39px;
+	font-size: large;
+	}
+.tablo12{
+	position: relative;
+	display: block;
+	margin-top: 39px;
+	font-size: large;
+	}
+
+div {
+	position: relative;
+	display: block;
+	font-size: large;
+	}
+.tablo1 {
+	position: relative;
+	display: block;
+}
+.tablo2 {
+	position: relative;
+	display: block;
+	margin-top: 39px;
+	font-size: large;
+	}
+.son_yazı {
+	position: relative;
+	display: list-item;
+	
+	}
+td {
+	text-align: right;
+	z-index: 0;
+	font-size: 23px;
+	}
+.amaç {
+	background-color:#C4DE4E;
+	font-size:22px;
+	border: thick solid #C6E730;
+	border-radius: 6px;
+	}
+.yönerge {
+	background-color:#C4DE4E;
+	font-size:22px;
+	border: thick solid #C6E730;
+	border-radius: 6px;
+	}
+.yönerge2 {
+	background-color:red;
+	overflow-x: visible;
+	opacity: 0.60;
+	color:white;
+	z-index:21;
+	}
+.yönerge3 {
+	background-color:#C6E730;
+	overflow-x: visible;
+	/*opacity: 0.60;*/
+	color:white;
+	z-index:20;
+	display:none;
+	color:red;
+	}
+.son_yazı {
+	font-size: 20px;
+	border: thick solid #C6E730;
+	background-color: #C6E730;
+	border-radius: 6px;
+	display: block;
+	margin-top: 37px;
+	}
+.yazdır {
+	color:red;
+	font-size:30px;
+	box-sizing:20px;
+	display:block;
+	margin:auto;
+	}
+.active{
+	background-color:#C6E730;
+	
+	}
+.active2{
+	background-color:#47D7E5;
+	
+	}
+.active3 {
+	border-color:#C6E730;
+	border-width:thick;
+	transform:scale(1.2,1.2);
+	padding:15px;
+	}
+.chosen {
+	background-color:#C6E730;
+	
+}
+.gönder {
+	color:green;
+	font-size:30px;
+	box-sizing:20px;
+	display:block;
+	margin:auto;
+	
+	}
+.gönder2 {
+	color:red;
+	font-size:40px;
+	box-sizing:40px;
+	display:block;
+	margin:auto;
+	background-color:#C6E730;
+	
+	}
+.çokdüşük {
+	background-color:#F5EEF6;
+	}
+.düşükrisk {
+	background-color:#D8C8C8;
+	}
+.ortarisk {
+	background-color:#D6AAAB;
+	}
+.yüksekrisk {
+	background-color:#D28E8F;
+	}
+.çokyüksek {
+	background-color:#E07072;
+	width:450px;
+	}
+.ürünbilgisi{
+	
+	border-right-color:red; 
+	border-right-width:medium;
+	}
+.tablo2başlık {
+	
+	border-radius:5px;
+	border-color:#688CBE;
+	background-color:#C6E730;
+	font-size:22px;
+	color:#B7581E;
+	}
+.tablo1başlık{
+	color: #E90409;
+	
+	
+}
+
+.text{
+	background-color: #C6E730;
+	margin-top: 6px;
+	}
+/** Radio Button Styles:**/
+.müşteri_sınıfı {
+	display: inline-block;
+	position: relative;
+	height: 15px;
+	width: 15px;
+	margin-right: 8px;
+	margin-top: 6px;
+	}
+.Yaş {
+	display:inline-block;
+	position:relative;
+	height:15px;
+	width:15px;
+	margin-right:8px;
+	margin-top:6px;
+	}
+.eğitim_radyo {
+	display:inline-block;
+	position:relative;
+	height:15px;
+	width:15px;
+	margin-right:8px;
+	margin-top:6px;
+	}
+.netgelir_radyo {
+	display:inline-block;
+	position:relative;
+	height:15px;
+	width:15px;
+	margin-right:8px;
+	margin-top:6px;
+	}
+.netgelir_türü {
+	display:inline-block;
+	position:relative;
+	height:15px;
+	width:15px;
+	margin-right:8px;
+	margin-top:6px;
+	}
+.tasarruf_tutari_radyo {
+	display:inline-block;
+	position:relative;
+	height:15px;
+	width:15px;
+	margin-right:8px;
+	margin-top:6px;
+	}
+.borc_durumu_radyo {
+	display:inline-block;
+	position:relative;
+	height:15px;
+	width:15px;
+	margin-right:8px;
+	margin-top:6px;
+	}
+.yatirim_süresi_radyo {
+	display:inline-block;
+	position:relative;
+	height:15px;
+	width:15px;
+	margin-right:8px;
+	margin-top:6px;
+	}
+.risk_ve_getiri_tercihi_radyo {
+	display:inline-block;
+	position:relative;
+	height:15px;
+	width:15px;
+	margin-right:8px;
+	margin-top:6px;
+	}
+.10{
+	display: inline-block;
+	position: relative;
+	height: 20px;
+	width: 20px;
+	margin-right: 20px;
+	margin-top: 6px;
+	}
+.son_radyolar {
+	display: inline-block;
+	position:relative;
+	margin-right: 26px;
+	width:40px;
+	height:40px;
+	
+	}
+.özel {
+	
+	}
+.özel2 {
+	display:inline-block;
+	}
+.ürünbilgisi {
+	background-image: -webkit-linear-gradient(48deg,rgba(162,203,84,0.88) 20.51%,rgba(138,144,58,1.00) 61.72%);
+	background-image: -moz-linear-gradient(48deg,rgba(162,203,84,0.88) 20.51%,rgba(138,144,58,1.00) 61.72%);
+	background-image: -o-linear-gradient(48deg,rgba(162,203,84,0.88) 20.51%,rgba(138,144,58,1.00) 61.72%);
+	background-image: linear-gradient(42deg,rgba(162,203,84,0.88) 20.51%,rgba(138,144,58,1.00) 61.72%);
+	
+	}
+.ürünbilgisi2 {
+	background-image: -webkit-linear-gradient(48deg,rgba(162,203,84,0.88) 20.51%,rgba(138,144,58,1.00) 61.72%);
+	background-image: -moz-linear-gradient(48deg,rgba(162,203,84,0.88) 20.51%,rgba(138,144,58,1.00) 61.72%);
+	background-image: -o-linear-gradient(48deg,rgba(162,203,84,0.88) 20.51%,rgba(138,144,58,1.00) 61.72%);
+	background-image: linear-gradient(42deg,rgba(162,203,84,0.88) 20.51%,rgba(138,144,58,1.00) 61.72%);	
+}
+.SON {
+	position: relative;
+	text-align: center;
+	background-color: #C6E730;
+	margin-top: 30px;
+	padding-top: 16px;
+	padding-bottom: 16px;
+	font-size: x-large;
+}
+@media print {
+  /* { margin: 0 !important; padding: 0 !important; }
+  #controls, .footer, .footerarea{ display: none; }*/
+ @page {
+	 margin:15px 24px 15px 24px;
+	 }
+html, body {
+        height: 99%;    
+    }
+  p {
+	  
+	  font-size:9pt;}
+	  
+footer {
+	display:none;}	
+
+	table { page-break-inside : avoid;
+	}
+.gönder{
+	
+	display:none;}
+.yazdır{
+	
+	display:none;}	
+img {
+	margin-bottom:0;
+	margin-top:0;
+	height:14px;
+	}
+.amaç{
+	font-size:12pt;
+	margin-top:0;
+	margin-bottom:0;
+	padding:0;
+	
+	}
+.yönerge{
+	font-size:12pt;
+	margin-top:0;
+	margin-bottom:0;
+	padding:0;
+	
+	}
+.tablo1 {
+	
+	font-size:9px;
+	display:inline-block;
+
+	margin-top:0;
+	
+	}
+	
+.tablo2{
+	
+	font-size:9px;
+	margin-top:0;
+	display:inline-block;
+	
+	}
+.müşterisınıfı{
+	height:10px;
+	width:10px;
+	font-size:9pt;
+	margin-top:0;
+	
+	}
+.yaş{
+	height:1px;
+	width:5px;
+	margin: 0 0 0 0;
+	
+	
+	}
+.risk_tercihi{
+	height:1px;
+	width:5px;
+	margin: 0 0 0 0;
+
+	}
+.yatırım_süresi {
+	height:1px;
+	width:5px;
+	margin: 0 0 0 0;
+
+	}
+.tablo3{
+	font-size:9px;
+	margin-top:0;
+	display:inline-block;
+	}
+.tablo4{
+	font-size:9px;
+	margin-top:0;
+	display:inline-block;
+	}
+.eğitim{
+	/*height:10px;
+	width:10px;
+	font-size:9pt;
+    margin-top:0;*/
+	height:1px;
+	width:5px;
+	margin: 0 0 0 0;
+	}
+.TicariFaaliyeti{
+	font-size:9pt;
+	}
+.tecrubesi{ font-size:9pt;
+	}	
+.tablo5{
+	
+	font-size:9pt;
+	margin-top:0;
+	display:inline-block;
+	}
+.tablo6{
+	font-size:9pt;
+	margin-top:0;
+	}
+.netgelir{
+	height:1px;
+	width:5px;
+	margin: 0 0 0 0;
+	}
+td {
+	font-size:11pt;
+	}
+#6_1_1{
+	height:12pt;
+	}
+h1 {
+	
+	margin-top:0;
+	padding:0;
+	margin-bottom:0;
+	font-size:19px;
+	}
+.tablo7{
+	margin-top:0;
+	display:inline-block;}
+.tablo8{
+	margin-top:0;
+	display:inline-block;}
+.tablo9{
+	margin-top:20px;
+	display:inline-block;}
+.tablo10{
+	margin-top:0;
+	display:inline-block;}
+.tablo11{
+	margin-top:0;
+	margin-bottom:0;
+	padding:0;
+	}
+.tablo12{
+	margin-top:0;
+	margin-bottom:0;
+	padding:0;
+	}
+div {
+	display:inline-block;
+	padding:0;
+	margin-top:0;}
+.son_yazı{
+	margin-bottom:0;
+	margin-top:0;
+	font-size:12pt;}
+.çokdüşük{
+	height:40px;
+	font-size:10pt;}
+.düşükrisk{
+	height:40px;
+	font-size:10pt;}
+.ortarisk{
+	height:40px;
+	font-size:10pt;}
+.yüksekrisk{
+	height:40px;
+	font-size:10pt;}
+.çokyüksek{
+	height:40px;
+	font-size:10pt;}
+.tablo2başlık{
+	height:20px;
+	font-size:10pt;}
+
+.ürünbilgisi2{
+	height:15px;
+	font-size:12pt;}
+.başlıklar1{
+	height:15px;
+	font-size:10pt;}
+.başlıklar2{
+	height:15px;
+	font-size:10pt;}
+.başlıklar3{
+	height:15px;
+	font-size:10pt;}
+th{
+	font-size:15pt;
+	height:15px;}
+.tablo1başlık{display:none;}
+.m1{
+	height:15px;
+	font-size:14pt;}
+.m1_1{height:15px;
+	font-size:14pt;
+	}
+.yaşrow1 {
+	height:3;
+	width:3;
+	
+}   
+}
